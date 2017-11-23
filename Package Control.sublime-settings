@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"LaTeX-cwl",
+		"LaTeXTools",
+		"MarkdownEditing",
+		"Package Control",
+		"SublimeGit",
+		"Sublimerge 3",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark"
+	]
+}
